@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\Ado.Net Demo\\Ado.Net Demo\\Ado.Net Demo.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\Ado.NetDemo\\Ado.Net Demo\\Ado.Net Demo.csproj",
       "projectName": "Ado.Net Demo",
-      "projectPath": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\Ado.Net Demo\\Ado.Net Demo\\Ado.Net Demo.csproj",
+      "projectPath": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\Ado.NetDemo\\Ado.Net Demo\\Ado.Net Demo.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\Ado.Net Demo\\Ado.Net Demo\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\Ado.NetDemo\\Ado.Net Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

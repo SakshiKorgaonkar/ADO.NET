@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RZx/OABkPOVL4/Vi2BH7aJEZlbP336vuRI3OWC8/Xp/zXp2FnF/xtJeRfn1miDkRNb8D5sYHqN/Ejp6CQiLfUQ==",
+  "dgSpecHash": "TuCZo+tXzyfUm5/HlD8klO/cxC+InrLvLzb4/yt4/X3V+TSUVTFiivl4NH5VXDt2TwSTAqWqCMB1qVLTnjlm1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\Ado.Net Demo\\Ado.Net Demo\\Ado.Net Demo.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\Ado.NetDemo\\Ado.Net Demo\\Ado.Net Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

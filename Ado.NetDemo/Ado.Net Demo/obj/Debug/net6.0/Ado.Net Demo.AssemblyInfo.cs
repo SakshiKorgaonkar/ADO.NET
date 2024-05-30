@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ado.Net Demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af375bf291b94c05460658dbc7e4a24373dac25a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ado.Net Demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ado.Net Demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

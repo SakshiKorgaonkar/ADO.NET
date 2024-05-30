@@ -8,7 +8,7 @@ namespace ConsoleApp
     {
         static string connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Database=Contact;Integrated Security=SSPI";
         static Contact contact;
-        static void Main(string[] args)
+        static void Main1(string[] args)
         { 
             bool condition=true;
             while (condition)
